@@ -1,5 +1,5 @@
 # Hyperspectral-Image-Denoising-Toolbox-V2
-This toolbox contains the following HSI denoising methods: 3D Wavelets,FORPDN, and HyRes (all can be found in
+This toolbox contains the following HSI denoising methods: 3D Wavelets,FORPDN, and HyRes (this methods can be found in
 [Hyperspectral Image Denoising Matlab Toolbox](https://github.com/BehnoodRasti/Hyperspectral-Image-Denoising-Matlab-Toolbox)),
 [SSTV](https://www.mathworks.com/matlabcentral/fileexchange/49145-mixed-noise-reduction),
 [NAIRLMA](https://sites.google.com/site/rshewei/home),
