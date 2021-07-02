@@ -1,4 +1,6 @@
 # Hyperspectral-Image-Denoising-Toolbox-V2
+This toolbox provides the codes to reproduce the results below. In case of using the toolbox please cite our overview paper [Image Restoration for Remote Sensing: Overview and Toolbox](https://arxiv.org/abs/2107.00557)
+
 This toolbox contains the following HSI denoising methods: 3D Wavelets,FORPDN, and HyRes (this methods can be found in
 [Hyperspectral Image Denoising Matlab Toolbox](https://github.com/BehnoodRasti/Hyperspectral-Image-Denoising-Matlab-Toolbox)),
 [SSTV](https://www.mathworks.com/matlabcentral/fileexchange/49145-mixed-noise-reduction),
